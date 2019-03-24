@@ -1,6 +1,7 @@
 # terraform-aws-openshift
 
 [![CircleCI](https://circleci.com/gh/dwmkerr/terraform-aws-openshift.svg?style=shield)](https://circleci.com/gh/dwmkerr/terraform-aws-openshift)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fandyborges%2Fterraform-aws-openshift.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fandyborges%2Fterraform-aws-openshift?ref=badge_shield)
 
 This project shows you how to set up OpenShift on AWS using Terraform. This the companion project to my article [Get up and running with OpenShift on AWS](http://www.dwmkerr.com/get-up-and-running-with-openshift-on-aws/).
 
@@ -382,3 +383,7 @@ make lint
  - https://access.redhat.com/sites/default/files/attachments/ocp-on-gce-3.pdf - Some useful info on using the bastion for installation.
  - http://dustymabe.com/2016/12/07/installing-an-openshift-origin-cluster-on-fedora-25-atomic-host-part-1/ - Great guide on cluster setup.
  - [Deploying OpenShift Container Platform 3.5 on AWS](https://access.redhat.com/documentation/en-us/reference_architectures/2017/html-single/deploying_openshift_container_platform_3.5_on_amazon_web_services/)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fandyborges%2Fterraform-aws-openshift.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fandyborges%2Fterraform-aws-openshift?ref=badge_large)
